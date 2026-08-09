@@ -28,7 +28,7 @@ My experience includes:
 - Inventory Intelligence
 - Business Growth
 
-> **Building products that drive business growth through strategy, intelligence, and AI.**
+**Building products that drive business growth through strategy, intelligence, and AI.**
 
 ---
 
