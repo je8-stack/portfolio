@@ -1,0 +1,110 @@
+{
+  "lastUpdated": "2026-08-09T19:23:19.531214",
+  "cv": {
+    "name": "ALWARD JEVON SOEMINTO PUTRA",
+    "title": "PRODUCT MANAGER",
+    "email": "alwardjevon@yahoo.com",
+    "phone": "+62-811-3498-134",
+    "website": "https://je8-stack.github.io/portfolio/",
+    "summary": "AI-driven Product Manager with experience in Account Management and Product Strategy since 2021.",
+    "expertise": [
+      "Product Strategy\nMarket Data Intelligence\nKEY ACHIEVEMENTS",
+      "Market Expansion",
+      "Implement",
+      "Product Expansion",
+      "Create a Product Roadmap",
+      "Supports the Company",
+      "Business Strategy",
+      "Notebook",
+      "PC All",
+      "Smartboard",
+      "Videotron",
+      "Lean Manufacturing",
+      "Cut production costs by"
+    ],
+    "achievements": [],
+    "experience": [],
+    "education": [],
+    "additional": {
+      "languages": [
+        "Bahasa",
+        "English",
+        "Mandarin"
+      ],
+      "certifications": [
+        "IELTS 6.5"
+      ]
+    }
+  },
+  "projects": [
+    {
+      "id": "product-intelligence-platform",
+      "title": "Product Intelligence Platform",
+      "category": "Product Intelligence",
+      "year": "2026",
+      "summary": "Built an AI-powered product intelligence platform that accelerated product decisions, strengthened competitive positioning, and supported profitable growth across multiple product lines.",
+      "features": [
+        "Market data aggregation & competitive analysis",
+        "AI-driven insights for faster decisions",
+        "Supports Notebook, AIO, Smartboard & Videotron"
+      ],
+      "tags": [
+        "Product Intelligence",
+        "AI",
+        "Market Research",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "id": "tender-intelligence-platform",
+      "title": "Tender Intelligence Platform",
+      "category": "Business Intelligence",
+      "year": "2026",
+      "summary": "Built an AI-powered tender intelligence platform that transformed government procurement data into actionable product opportunities, enabling faster opportunity identification and smarter portfolio decisions.",
+      "features": [
+        "Procurement data analysis",
+        "Product matching",
+        "Automated insights"
+      ],
+      "tags": [
+        "AI Tender Intelligence",
+        "Procurement Analytics",
+        "Product Matching",
+        "Automated Insights"
+      ]
+    },
+    {
+      "id": "inventory-intelligence-platform",
+      "title": "Inventory Intelligence Platform",
+      "category": "Operations Intelligence",
+      "year": "2026",
+      "summary": "Proactive inventory management, faster operational decisions, and improved distributor readiness.",
+      "features": [
+        "Inventory risk monitoring",
+        "Operational decision support",
+        "Distributor readiness tracking"
+      ],
+      "tags": [
+        "Inventory Intelligence",
+        "Automated Analytics",
+        "Decision Support",
+        "Operational Risk"
+      ]
+    }
+  ],
+  "expertise": [
+    "Product Strategy\nMarket Data Intelligence\nKEY ACHIEVEMENTS",
+    "Market Expansion",
+    "Implement",
+    "Product Expansion",
+    "Create a Product Roadmap",
+    "Supports the Company",
+    "Business Strategy",
+    "Notebook",
+    "PC All",
+    "Smartboard",
+    "Videotron",
+    "Lean Manufacturing",
+    "Cut production costs by"
+  ]
+}
