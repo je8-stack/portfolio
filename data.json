@@ -1,59 +1,40 @@
 {
-  "lastUpdated": "2026-08-09T19:23:19.531214",
-  "cv": {
+  "lastUpdated": "2026-08-09T22:26:42.203908",
+  "profile": {
     "name": "ALWARD JEVON SOEMINTO PUTRA",
     "title": "PRODUCT MANAGER",
-    "email": "alwardjevon@yahoo.com",
+    "email": "",
     "phone": "+62-811-3498-134",
     "website": "https://je8-stack.github.io/portfolio/",
-    "summary": "AI-driven Product Manager with experience in Account Management and Product Strategy since 2021.",
-    "expertise": [
-      "Product Strategy\nMarket Data Intelligence\nKEY ACHIEVEMENTS",
-      "Market Expansion",
-      "Implement",
-      "Product Expansion",
-      "Create a Product Roadmap",
-      "Supports the Company",
-      "Business Strategy",
-      "Notebook",
-      "PC All",
-      "Smartboard",
-      "Videotron",
-      "Lean Manufacturing",
-      "Cut production costs by"
-    ],
-    "achievements": [],
-    "experience": [],
-    "education": [],
-    "additional": {
-      "languages": [
-        "Bahasa",
-        "English",
-        "Mandarin"
-      ],
-      "certifications": [
-        "IELTS 6.5"
-      ]
-    }
+    "location": "Depok, Indonesia",
+    "summary": "AI-driven Product Manager with experience in Account Management and Product Strategy since 2021."
   },
+  "expertise": [
+    "Product Strategy",
+    "Market Data Intelligence"
+  ],
+  "achievements": [
+    "Market Expansion. Implement \"key account\" relationship strategy, leading to a 20% increase in project\nmarket share",
+    "Product Expansion. Create a Product Roadmap (TKDN) that Supports the Company's Business Strategy\n(Notebook, PC All-in-One, Smartboard, and Videotron)",
+    "Lean Manufacturing. Cut production costs by 10% through streamlined manufacturing"
+  ],
   "projects": [
     {
       "id": "product-intelligence-platform",
       "title": "Product Intelligence Platform",
       "category": "Product Intelligence",
       "year": "2026",
-      "summary": "Built an AI-powered product intelligence platform that accelerated product decisions, strengthened competitive positioning, and supported profitable growth across multiple product lines.",
-      "features": [
-        "Market data aggregation & competitive analysis",
-        "AI-driven insights for faster decisions",
-        "Supports Notebook, AIO, Smartboard & Videotron"
-      ],
-      "tags": [
+      "summary": "Built an AI-powered product intelligence platform that transformed fragmented product data into faster decisions, stronger market positioning, and scalable business growth.",
+      "challenge": "Product decisions relied on fragmented data, slow market research, and manual competitive tracking.",
+      "solution": "Developed a centralized AI platform that unified product, market, and competitive intelligence into a single decision-making system.",
+      "impact": "Reduced decision time, improved portfolio visibility, and enabled faster go-to-market planning across multiple product lines.",
+      "stack": [
         "Product Intelligence",
         "AI",
         "Market Research",
         "Competitive Analysis"
-      ]
+      ],
+      "image": "project-tkdn.jpg"
     },
     {
       "id": "tender-intelligence-platform",
@@ -61,50 +42,73 @@
       "category": "Business Intelligence",
       "year": "2026",
       "summary": "Built an AI-powered tender intelligence platform that transformed government procurement data into actionable product opportunities, enabling faster opportunity identification and smarter portfolio decisions.",
-      "features": [
-        "Procurement data analysis",
-        "Product matching",
-        "Automated insights"
-      ],
-      "tags": [
+      "challenge": "Government procurement were scattered across millions of RUP records, making it difficult to identify relevant tenders and quickly match them with the right product portfolio.",
+      "solution": "Developed an automated intelligence platform that continuously analyzes INAPROC procurement data, maps opportunities to Axioo's product catalog, and recommends the most suitable products based on specifications, pricing, and portfolio readiness.",
+      "impact": "Accelerated product recommendation for B2G procurement opportunities and enabled faster commercial decision-making between sales and product teams.",
+      "stack": [
         "AI Tender Intelligence",
         "Procurement Analytics",
         "Product Matching",
         "Automated Insights"
-      ]
+      ],
+      "image": "project-keyaccount.jpg"
     },
     {
       "id": "inventory-intelligence-platform",
       "title": "Inventory Intelligence Platform",
       "category": "Operations Intelligence",
       "year": "2026",
-      "summary": "Proactive inventory management, faster operational decisions, and improved distributor readiness.",
-      "features": [
-        "Inventory risk monitoring",
-        "Operational decision support",
-        "Distributor readiness tracking"
-      ],
-      "tags": [
+      "summary": "An automated decision support platform that identifies operational risks, prioritizes actions, and delivers real-time recommendations for management and distributors.",
+      "challenge": "Inventory risks such as stockouts, last-buy products, and lifecycle changes required significant manual monitoring across multiple product lines.",
+      "solution": "Built an automated decision support platform that identifies operational risks, prioritizes actions, and delivers real-time recommendations for management and distributors.",
+      "impact": "Proactive inventory management, faster operational decisions, improved distributor readiness.",
+      "stack": [
         "Inventory Intelligence",
         "Automated Analytics",
         "Decision Support",
         "Operational Risk"
+      ],
+      "image": "project-lean.jpg"
+    }
+  ],
+  "career": [],
+  "education": [
+    {
+      "degree": "BBA. International Business",
+      "school": "University of Leeds - United Kingdom",
+      "period": "Aug 2021 - Present",
+      "details": [
+        "Thesis on \"The Role of Commonwealth Principle in influencing the flows of inward",
+        "Awards: MSc Contribution Prize",
+        "Award: Dean's Honour Award"
       ]
     }
   ],
-  "expertise": [
-    "Product Strategy\nMarket Data Intelligence\nKEY ACHIEVEMENTS",
-    "Market Expansion",
-    "Implement",
-    "Product Expansion",
-    "Create a Product Roadmap",
-    "Supports the Company",
-    "Business Strategy",
-    "Notebook",
-    "PC All",
-    "Smartboard",
-    "Videotron",
-    "Lean Manufacturing",
-    "Cut production costs by"
+  "additional": {
+    "languages": [
+      "Bahasa",
+      "English",
+      "Mandarin."
+    ],
+    "certifications": [
+      "IELTS 6.5."
+    ]
+  },
+  "skills": [
+    {
+      "group": "Product",
+      "tags": [
+        "Product Strategy",
+        "Market Data Intelligence"
+      ]
+    },
+    {
+      "group": "Management",
+      "tags": []
+    },
+    {
+      "group": "Business",
+      "tags": []
+    }
   ]
 }
