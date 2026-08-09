@@ -6,9 +6,10 @@ Welcome to my professional portfolio. This repository showcases selected project
 
 ---
 
-## 🌐 Portfolio
+## 🌐 How to Connect
 
 **Website:** [https://je8-stack.github.io/portfolio/](https://je8-stack.github.io/portfolio/)
+**LinkedIn:** [https://www.linkedin.com/in/alwardjevon/](https://www.linkedin.com/in/alwardjevon/)
 
 ---
 
