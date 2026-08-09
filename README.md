@@ -8,7 +8,7 @@ Welcome to my professional portfolio. This repository showcases selected project
 
 ## 🌐 Portfolio
 
-**Website:** https://je8-stack.github.io/portfolio/
+**Website:** [Portfolio URL](https://je8-stack.github.io/portfolio/)
 
 **LinkedIn:** [Alward Jevon](https://www.linkedin.com/in/alwardjevon/)
 
