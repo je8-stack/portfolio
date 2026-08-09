@@ -14,7 +14,7 @@ Welcome to my professional portfolio. This repository showcases selected project
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
 I'm a Product Manager specializing in AI-powered product strategy, Product Intelligence, and B2G market development.
 
@@ -34,7 +34,7 @@ My experience includes:
 
 ---
 
-# Featured Projects
+# ⬢ Featured Projects
 
 ## 🚀 Product Intelligence Platform
 
